@@ -2,5 +2,5 @@ config.json
 
 data
 durian.pth
-.gitignore
 durian.pt
+.DS_Store
