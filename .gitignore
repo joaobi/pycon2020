@@ -4,3 +4,6 @@ data
 durian.pth
 durian.pt
 .DS_Store
+myenv.yml
+score.py
+durian-experiment-files/train.py
