@@ -7,3 +7,4 @@ durian.pt
 myenv.yml
 score.py
 durian-experiment-files/train.py
+.vscode/settings.json
